@@ -12,6 +12,8 @@
 - 🐍 Python (iniciante)
 - 🌐 HTML e CSS (intermediário)
 - ⚙️ JavaScript (iniciante)
+- ⚙️ Django (iniciante)
+- 📚 React.JS (iniciante)
 
 ---
 
