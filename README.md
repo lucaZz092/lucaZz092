@@ -31,6 +31,14 @@
   <a href="https://github.com/lucaZz092">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaZz092&show_icons=true&theme=dark&count_private=true"/>
   </a>
+  <a>
+    <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamassei&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+  </a>
 </div>
 
 ---
