@@ -19,7 +19,7 @@
 
 ### 📚 Projetos em desenvolvimento:
 - Portfólio pessoal responsivo (HTML + CSS)
-- To-do list com HTML, CSS e JavaScript
+- Tela de login, registro e recuperação de senha (HTML + CSS + JS)
 - Gerenciador de notas fiscais com Python
 
 > *Meus projetos serão publicados aqui conforme forem evoluindo!*
