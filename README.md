@@ -9,11 +9,12 @@
 ---
 
 ### 🚀 Tecnologias que estou aprendendo:
-- 🐍 Python (iniciante)
-- 🌐 HTML e CSS (intermediário)
-- ⚙️ JavaScript (iniciante)
-- ⚙️ Django (iniciante)
-- 📚 React.JS (iniciante)
+- 🐍 Python
+- 🌐 HTML e CSS
+- ⚙️ JavaScript
+- ⚙️ Django
+- 📚 React.JS
+- ⚙️ Node.JS
 
 ---
 
