@@ -15,6 +15,7 @@
 - ⚙️ Django
 - 📚 React.JS
 - ⚙️ Node.JS
+- Typescript.tsx
 
 ---
 
