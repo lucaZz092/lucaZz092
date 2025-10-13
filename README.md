@@ -3,26 +3,10 @@
 <p align="center">
   💻 Em transição de carreira para a área de <strong>TI</strong>  
   <br/>
-  🎯 Estudando para me tornar um <strong>Desenvolvedor Fullstack</strong>
+  🎯 Estudando para me tornar um <strong>Desenvolvedor Back-End</strong>
 </p>
 
 ---
-
-### 🚀 Tecnologias que estou aprendendo:
-- 🐍 Python
-- 🌐 HTML e CSS
-- ⚙️ JavaScript
-- ⚙️ Django
-- 📚 React.JS
-- ⚙️ Node.JS
-- Typescript.tsx
-
----
-
-### 📚 Projetos em desenvolvimento:
-- Portfólio pessoal responsivo (HTML + CSS)
-- Tela de login, registro e recuperação de senha (HTML + CSS + JS)
-- Gerenciador de notas fiscais com Python
 
 > *Meus projetos serão publicados aqui conforme forem evoluindo!*
 
