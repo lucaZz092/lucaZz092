@@ -26,10 +26,10 @@
 <h3 align="left">🚀 Meus Projetos em Destaque</h3>
 <p align="left">
     <a href="https://github.com/lucaZz092/NOME-DO-SEU-REPO-1" target="_blank">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=NOME-DO-SEU-REPO-1&theme=tokyonight&show_owner=true" alt="Card do Projeto 1"/>
+    <img height="130" src="[https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=tech-recruit-1&theme=tokyonight&show_owner=true](https://tech-recruit.vercel.app/)" alt="Card do Projeto 1"/>
   </a>
   <a href="https://github.com/lucaZz092/NOME-DO-SEU-REPO-2" target="_blank">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=NOME-DO-SEU-REPO-2&theme=tokyonight&show_owner=true" alt="Card do Projeto 2"/>
+    <img height="130" src="[https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=NOME-DO-SEU-REPO-2&theme=tokyonight&show_owner=true](https://softsolutions-chi.vercel.app/)" alt="Card do Projeto 2"/>
   </a>
 </p>
 
@@ -55,7 +55,3 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaZz092&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
   />
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lucaZz092/lucaZz092/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
