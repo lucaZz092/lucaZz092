@@ -29,8 +29,8 @@
   <a href="tech-recruit.vercel.app" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=tech-recruit&theme=tokyonight&show_owner=true" alt="Card do Projeto Tech Recruit"/>
   </a>
-  <a href="[https://github.com/lucaZz092/softsolutions.git](https://github.com/lucaZz092/softsolutions.git)" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=NOME-DO-SEU-REPO-2&theme=tokyonight&show_owner=true" alt="Card do Projeto 2"/>
+  <a href="softsolutions-chi.vercel.app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=softsolutions&theme=tokyonight&show_owner=true" alt="Card do Projeto 2"/>
   </a>
 </p>
 
