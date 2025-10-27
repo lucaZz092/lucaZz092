@@ -1,57 +1,58 @@
 <h1 align="center">Olá, eu sou o Lucas Mendonça Martins 👋</h1>
 
 <p align="center">
-  💻 Profissional em transição de carreira para a área de <strong>Tecnologia da Informação</strong>.
-  <br/>
-  🎯 Focado em desenvolvimento <strong>Back-End</strong>, com ênfase em [Java/Spring, Node.js, C#/.NET, etc.]
-  <br/>
-  📚 Atualmente construindo projetos práticos e aprofundando conhecimentos em [SQL, Docker, Cloud, etc.].
+  Profissional em transição de carreira para a área de **Tecnologia da Informação**.<br>
+  Focado em desenvolvimento **Back-End**, com ênfase em **Java, Spring** e **Node.js**.<br>
+  Atualmente construindo projetos práticos e aprofundando conhecimentos em **SQL, Docker** e **Git**.
 </p>
 
 ---
 
-<h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
+### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
 ---
 
-<h3 align="left">🚀 Meus Projetos em Destaque</h3>
+### 🚀 Meus Projetos em Destaque
+
+<p align="center">
+  <a href="https://github.com/lucaZz092/tech-recruit-1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=tech-recruit-1&theme=tokyonight&show_owner=true" alt="Card do Projeto Tech Recruit"/>
+  </a>
+  <a href="https://github.com/lucaZz092/NOME-DO-SEU-REPO-2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=NOME-DO-SEU-REPO-2&theme=tokyonight&show_owner=true" alt="Card do Projeto 2"/>
+  </a>
+</p>
+
+---
+
+### 📫 Onde me encontrar:
+
 <p align="left">
-    <a href="https://github.com/lucaZz092/NOME-DO-SEU-REPO-1" target="_blank">
-    <img height="130" src="[https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=tech-recruit-1&theme=tokyonight&show_owner=true](https://tech-recruit.vercel.app/)" alt="Card do Projeto 1"/>
-  </a>
-  <a href="https://github.com/lucaZz092/NOME-DO-SEU-REPO-2" target="_blank">
-    <img height="130" src="[https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=NOME-DO-SEU-REPO-2&theme=tokyonight&show_owner=true](https://softsolutions-chi.vercel.app/)" alt="Card do Projeto 2"/>
-  </a>
+  <a href="https://www.linkedin.com/in/lucas-mendonca/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:SEU-EMAIL-AQUI@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </p>
 
 ---
 
-<h3 align="left">📫 Onde me encontrar:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucas-mendonca/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:[SEU-EMAIL-AQUI]@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</p>
+### 📈 Minhas Estatísticas
 
----
-
-<h3 align="left">📈 Minhas Estatísticas</h3>
 <div align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucaZz092&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaZz092&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
-  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucaZz092&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaZz092&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
+  />
 </div>
