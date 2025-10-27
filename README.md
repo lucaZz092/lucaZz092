@@ -27,9 +27,9 @@
 
 <p align="center">
   <a href="tech-recruit.vercel.app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=tech-recruit-1&theme=tokyonight&show_owner=true" alt="Card do Projeto Tech Recruit"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=tech-recruit&theme=tokyonight&show_owner=true" alt="Card do Projeto Tech Recruit"/>
   </a>
-  <a href="https://github.com/lucaZz092/NOME-DO-SEU-REPO-2" target="_blank">
+  <a href="https://github.com/lucaZz092/softsolutions.git" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=NOME-DO-SEU-REPO-2&theme=tokyonight&show_owner=true" alt="Card do Projeto 2"/>
   </a>
 </p>
@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/lucas-mendonca/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:SEU-EMAIL-AQUI@gmail.com" target="_blank">
+  <a href="mailto:dev.lucas77@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </p>
