@@ -25,37 +25,14 @@
 
 ### 🚀 Meus Projetos em Destaque
 
-<details open>
-  <summary><strong>Projeto 1: Tech Recruit (Plataforma de Vagas)</strong></summary>
-  <br>
-  
-  <a href="https://tech-recruit.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/lucaZz092/tech-recruit/main/preview/Grava%C3%A7%C3%A3o%20de%20Tela%202025-10-27%20%C3%A0s%2015.34.26.gif" alt="Demo animada do Projeto Tech Recruit" width="100%"/>
+<p align="center">
+  <a href="tech-recruit.vercel.app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=tech-recruit-1&theme=tokyonight&show_owner=true" alt="Card do Projeto Tech Recruit"/>
   </a>
-  <br>
-  
-  <p><strong>Descrição:</strong> Plataforma full-stack para conectar empresas e candidatos de TI, com gestão de vagas e autenticação.</p>
-  
-  <a href="https://github.com/lucaZz092/tech-recruit" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=tech-recruit&theme=tokyonight&show_owner=true" alt="Card de estatísticas do Tech Recruit"/>
+  <a href="https://github.com/lucaZz092/NOME-DO-SEU-REPO-2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=NOME-DO-SEU-REPO-2&theme=tokyonight&show_owner=true" alt="Card do Projeto 2"/>
   </a>
-</details>
-
-<details>
-  <summary><strong>Projeto 2: SoftSolutions (Landing Page)</strong></summary>
-  <br>
-  
-  <a href="https://softsolutions-chi.vercel.app/" target="_blank">
-    <img src="https://github.com/lucaZz092/tech-recruit/blob/main/preview/Grava%C3%A7%C3%A3o%20de%20Tela%202025-10-27%20%C3%A0s%2015.48.47.gif?raw=true alt="Demo do Projeto SoftSolutions" width="100%"/>
-  </a>
-  <br>
-  
-  <p><strong>Descrição:</strong> [ESCREVA AQUI UMA BREVE DESCRIÇÃO DO PROJETO SOFTSOLUTIONS]</p>
-  
-  <a href="https://github.com/lucaZz092/softsolutions" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=softsolutions&theme=tokyonight&show_owner=true" alt="Card de estatísticas do SoftSolutions"/>
-  </a>
-</details>
+</p>
 
 ---
 
