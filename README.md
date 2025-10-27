@@ -2,8 +2,8 @@
 
 <p align="center">
   Profissional em transição de carreira para a área de **Tecnologia da Informação**.<br>
-  Focado em desenvolvimento **Back-End**, com ênfase em **Java, Spring** e **Node.js**.<br>
-  Atualmente construindo projetos práticos e aprofundando conhecimentos em **SQL, Docker** e **Git**.
+  Focado em desenvolvimento Back-End, com ênfase em Java, Spring e Node.js.<br>
+  Atualmente construindo projetos práticos e aprofundando conhecimentos em SQL, Docker e Git.
 </p>
 
 ---
@@ -11,13 +11,15 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
+</p
 
 ---
 
