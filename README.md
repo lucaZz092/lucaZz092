@@ -41,6 +41,22 @@
   </a>
 </details>
 
+<details>
+  <summary><strong>Projeto 2: SoftSolutions (Landing Page)</strong></summary>
+  <br>
+  
+  <a href="https://softsolutions-chi.vercel.app/" target="_blank">
+    <img src="https://github.com/lucaZz092/tech-recruit/blob/main/preview/Grava%C3%A7%C3%A3o%20de%20Tela%202025-10-27%20%C3%A0s%2015.48.47.gif?raw=true alt="Demo do Projeto SoftSolutions" width="100%"/>
+  </a>
+  <br>
+  
+  <p><strong>Descrição:</strong> [ESCREVA AQUI UMA BREVE DESCRIÇÃO DO PROJETO SOFTSOLUTIONS]</p>
+  
+  <a href="https://github.com/lucaZz092/softsolutions" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=softsolutions&theme=tokyonight&show_owner=true" alt="Card de estatísticas do SoftSolutions"/>
+  </a>
+</details>
+
 ---
 
 ### 📫 Onde me encontrar:
