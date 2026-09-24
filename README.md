@@ -1,60 +1,50 @@
-<h1 align="center">Olá, eu sou o Lucas Mendonça Martins 👋</h1>
+<h1 align="center">Olá, dev! 👋</h1>
+
+<h3 align="center">Back-End Developer | Java & Spring Boot</h3>
 
 <p align="center">
-  Profissional em transição de carreira para a área de **Tecnologia da Informação**.<br>
-  Focado em desenvolvimento Back-End, com ênfase em Java, Spring e Node.js.<br>
-  Atualmente construindo projetos práticos e aprofundando conhecimentos em SQL, Docker e Git.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Construindo+APIs+robustas+com+Java+%26+Spring+Boot;Sempre+aprendendo+algo+novo;Café+%2B+código+%3D+produtividade" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🚀 Sobre mim
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p
+- 🔭 Atualmente focado em desenvolvimento **Back-End** com Java e Spring Boot
+- 🌱 Explorando o mundo **Front-End** com TypeScript e React
+- 🐳 Trabalhando com containers usando Docker no dia a dia
+- 🗄️ Modelando e gerenciando dados com MySQL
+- 💡 Sempre em busca de escrever código limpo e escalável
+- ⚡ Fun fact: bug bom é bug resolvido às 2h da manhã
 
 ---
 
-### 🚀 Meus Projetos em Destaque
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <a href="tech-recruit.vercel.app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=tech-recruit&theme=tokyonight&show_owner=true" alt="Card do Projeto Tech Recruit"/>
-  </a>
-  <a href="softsolutions-chi.vercel.app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaZz092&repo=softsolutions&theme=tokyonight&show_owner=true" alt="Card do Projeto 2"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
 
-### 📫 Onde me encontrar:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucas-mendonca/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:dev.lucas77@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+<p align="center">
+  <i>"Código bom não é aquele que funciona, é aquele que o próximo dev entende sem chorar."</i> 😄
 </p>
-
----
-
-### 📈 Minhas Estatísticas
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucaZz092&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaZz092&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
-  />
-</div>
