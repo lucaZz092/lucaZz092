@@ -59,11 +59,11 @@ public class Developer {
 ### Métricas
 
 <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=8892B0&icon_color=64ffda&text_color=ccd6f6" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=8892B0&text_color=ccd6f6" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaZz092&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=8892B0&text_color=ccd6f6" height="165" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=nightowl&hide_border=true&background=0d1117&stroke=8892B0&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaZz092&theme=nightowl&hide_border=true&background=0d1117&stroke=8892B0&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" width="60%" />
 
 </div>
 
