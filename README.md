@@ -58,7 +58,7 @@ public class Developer {
 
 ### Métricas
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=8892B0&icon_color=64ffda&text_color=ccd6f6" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=lucaZz092&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=8892B0&icon_color=64ffda&text_color=ccd6f6" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaZz092&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=8892B0&text_color=ccd6f6" height="165" />
 
 <br>
